@@ -11,7 +11,7 @@ def initialize(species)
     @@all << self
   end
 
-def buy_cat 
+def buy_cat
 end
 
 end
