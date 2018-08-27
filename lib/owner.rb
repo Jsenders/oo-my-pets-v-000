@@ -14,4 +14,3 @@ def initialize(species)
 
 end
 end
-
